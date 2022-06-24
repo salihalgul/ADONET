@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\ExecuteScaler\bin\Debug\ExecuteScaler.exe.config
+C:\Users\Can\Desktop\ExecuteScaler\bin\Debug\ExecuteScaler.exe
+C:\Users\Can\Desktop\ExecuteScaler\bin\Debug\ExecuteScaler.pdb
+C:\Users\Can\Desktop\ExecuteScaler\obj\Debug\ExecuteScaler.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\ExecuteScaler\obj\Debug\ExecuteScaler.exe
+C:\Users\Can\Desktop\ExecuteScaler\obj\Debug\ExecuteScaler.pdb
+C:\Users\Can\Desktop\ExecuteScaler\obj\Debug\ExecuteScaler.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\ExecutenınqueryParametre\bin\Debug\ExecutenınqueryParametre.exe.config
+C:\Users\Can\Desktop\ExecutenınqueryParametre\bin\Debug\ExecutenınqueryParametre.exe
+C:\Users\Can\Desktop\ExecutenınqueryParametre\bin\Debug\ExecutenınqueryParametre.pdb
+C:\Users\Can\Desktop\ExecutenınqueryParametre\obj\Debug\ExecutenınqueryParametre.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\ExecutenınqueryParametre\obj\Debug\ExecutenınqueryParametre.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\ExecutenınqueryParametre\obj\Debug\ExecutenınqueryParametre.exe
+C:\Users\Can\Desktop\ExecutenınqueryParametre\obj\Debug\ExecutenınqueryParametre.pdb

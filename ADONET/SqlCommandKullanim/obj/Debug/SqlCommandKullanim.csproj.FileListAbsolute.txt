@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\SqlCommandKullanim\bin\Debug\SqlCommandKullanim.exe.config
+C:\Users\Can\Desktop\SqlCommandKullanim\bin\Debug\SqlCommandKullanim.exe
+C:\Users\Can\Desktop\SqlCommandKullanim\bin\Debug\SqlCommandKullanim.pdb
+C:\Users\Can\Desktop\SqlCommandKullanim\obj\Debug\SqlCommandKullanim.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\SqlCommandKullanim\obj\Debug\SqlCommandKullanim.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\SqlCommandKullanim\obj\Debug\SqlCommandKullanim.exe
+C:\Users\Can\Desktop\SqlCommandKullanim\obj\Debug\SqlCommandKullanim.pdb

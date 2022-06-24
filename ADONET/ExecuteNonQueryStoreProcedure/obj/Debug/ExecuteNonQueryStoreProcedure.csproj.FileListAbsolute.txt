@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\ExecuteNonQueryStoreProcedure\bin\Debug\ExecuteNonQueryStoreProcedure.exe.config
+C:\Users\Can\Desktop\ExecuteNonQueryStoreProcedure\bin\Debug\ExecuteNonQueryStoreProcedure.exe
+C:\Users\Can\Desktop\ExecuteNonQueryStoreProcedure\bin\Debug\ExecuteNonQueryStoreProcedure.pdb
+C:\Users\Can\Desktop\ExecuteNonQueryStoreProcedure\obj\Debug\ExecuteNonQueryStoreProcedure.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\ExecuteNonQueryStoreProcedure\obj\Debug\ExecuteNonQueryStoreProcedure.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\ExecuteNonQueryStoreProcedure\obj\Debug\ExecuteNonQueryStoreProcedure.exe
+C:\Users\Can\Desktop\ExecuteNonQueryStoreProcedure\obj\Debug\ExecuteNonQueryStoreProcedure.pdb
